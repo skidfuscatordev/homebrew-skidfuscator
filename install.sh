@@ -1,0 +1,1 @@
+brew install --build-from-source ./Formula/skidfuscator.rb
